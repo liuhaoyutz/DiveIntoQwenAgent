@@ -10,4 +10,7 @@ python image_gen.py
 chess_game是一个五子棋游戏，它演示了多Agent的情况。棋盘，用户，NPC是3个Agent，又通过一个GroupChat Agent来协调它们3个Agent的通话顺序。  
 
 执行：  
-python chess_game.py
+python chess_game.py  
+
+llm.py和function_calling.py演示了QwenAgent的LLM模块及function call用法。  
+
