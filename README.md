@@ -14,3 +14,4 @@ python chess_game.py
 
 llm.py和function_calling.py演示了QwenAgent的LLM模块及function call用法。  
 
+QwenAgent架构分析.pptx是对QwenAgent架构的理解总结。  
